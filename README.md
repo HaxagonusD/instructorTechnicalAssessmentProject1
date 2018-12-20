@@ -25,7 +25,7 @@ GitHub is a free and public platform for saving your Git tracked changes to a re
 Another big advantage of using GitHub is that GitHub offers free web hosting! Students in the Summer Intensive will be taking advantage of this free service. Therefore, __hosting a website on GitHub is a critical skill for instructors to know, and that's why it's a requirement for this project!__
 
 ## Setting up your project folder (repo)
-1. If you don't already have Git installed on your computer, please [download it](https://git-scm.com/downloads).
+1. If you don't already have Git installed on your computer, please [download and install it](https://git-scm.com/downloads).
 2. If you don't already have an account with [GitHub](https://github.com), please create one (this is a professional platform, so be mindful of your username)
 3. Follow these painfully detailed instructions to create your first repo, clone it to your computer, and eventually commit and push your changes back to GitHub to host your website.
 ---
