@@ -10,24 +10,8 @@ The restrictions for this project are light; have fun with this!
 
 Since you are required to host your website on the GitHub platform...  
 -  If you are familiar with Git and GitHub, feel free to jump down to the Rubric
--  If you are unfamiliar with Git version control and/or the GitHub platform, please refer to the following instructions to set up your project:
+-  If you are unfamiliar with Git version control and/or the GitHub platform, please Follow these [painfully detailed instructions](https://docs.google.com/presentation/d/1Xl76xBSF6pvhqfRnKehN7oM3zpZ3uneNB3dHxeUGxAA/edit?usp=sharing).
 
-### What is Git?
-Git is a version control software. You might save files on your computer, but without a way to track changes to those files there is no built in way to see what changes have occured or to revert the file back to the first time it was saved. Git, and other version control systems, track file changes! So, if you ever make a mistake or the changes you made don't work for whatever reason, you can always roll back to a previous version with a single command.
-
-In all, Git is considered an industry standard, and although you may not be completely comfortable with using it at this point, it behooves you to get acquainted with how it works sooner rather than later.
-
-Git is accessed through the terminal. If you are unfamiliar with command line arguments, that's OK! Explicit instructions are provided. Interfacing with a computer through the terminal is another industry standard you will want to get acquainted with.
-
-### What is GitHub?
-GitHub is a free and public platform for saving your Git tracked changes to a remote server, effectively saving your files to the cloud, allowing you (and others!) to access them from anywhere.
-
-Another big advantage of using GitHub is that GitHub offers free web hosting! Students in the Summer Intensive will be taking advantage of this free service. Therefore, __hosting a website on GitHub is a critical skill for instructors to know, and that's why it's a requirement for this project!__
-
-## Setting up your project folder (repo)
-1. If you don't already have Git installed on your computer, please [download and install it](https://git-scm.com/downloads).
-2. If you don't already have an account with [GitHub](https://github.com), please create one (this is a professional platform, so be mindful of your username)
-3. Follow these [painfully detailed instructions](https://docs.google.com/presentation/d/1Xl76xBSF6pvhqfRnKehN7oM3zpZ3uneNB3dHxeUGxAA/edit?usp=sharing) to create your first repo, clone it to your computer, and eventually commit and push your changes back to GitHub to host your website.
 ---
 # Rubric
 ### HOSTING
