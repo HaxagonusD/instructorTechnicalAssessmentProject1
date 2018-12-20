@@ -28,8 +28,8 @@ Another big advantage of using GitHub is that GitHub offers free web hosting! St
 1. If you don't already have Git installed on your computer, please [download it](https://git-scm.com/downloads).
 2. If you don't already have an account with [GitHub](https://github.com), please create one (this is a professional platform, so be mindful of your username)
 3. Follow these painfully detailed instructions to create your first repo, clone it to your computer, and eventually commit and push your changes back to GitHub to host your website.
-
-## Rubric
+---
+# Rubric
 ### HOSTING
 Websites should be properly hosted on GitHub.
 ### CONTENT
