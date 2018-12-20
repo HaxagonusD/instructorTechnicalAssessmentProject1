@@ -10,7 +10,7 @@ The restrictions for this project are light; have fun with this!
 
 Since you are required to host your website on the GitHub platform...  
 -  If you are familiar with Git and GitHub, feel free to jump down to the Rubric
--  If you are unfamiliar with Git version control and/or the GitHub platform, please Follow these [painfully detailed instructions](https://docs.google.com/presentation/d/1Xl76xBSF6pvhqfRnKehN7oM3zpZ3uneNB3dHxeUGxAA/edit?usp=sharing).
+-  If you are unfamiliar with Git version control and/or the GitHub platform, please follow these [painfully detailed instructions](https://docs.google.com/presentation/d/1Xl76xBSF6pvhqfRnKehN7oM3zpZ3uneNB3dHxeUGxAA/edit?usp=sharing).
 
 ---
 # Rubric
