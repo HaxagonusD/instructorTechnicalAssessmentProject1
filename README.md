@@ -22,7 +22,7 @@ Git is accessed through the terminal. If you are unfamiliar with command line ar
 ### What is GitHub?
 GitHub is a free and public platform for saving your Git tracked changes to a remote server, effectively saving your files to the cloud, allowing you (and others!) to access them from anywhere.
 
-Another big advantage of using GitHub is that GitHub offers free web hosting! Students in the Summer Intensive will be taking advantage of this free service. Therefore, hosting a website on GitHub is a critical skill for instructors to know, and that's why it's a requirement for this project!
+Another big advantage of using GitHub is that GitHub offers free web hosting! Students in the Summer Intensive will be taking advantage of this free service. Therefore, __hosting a website on GitHub is a critical skill for instructors to know, and that's why it's a requirement for this project!__
 
 ## Setting up your project folder (repo)
 1. If you don't already have Git installed on your computer, please [download it](https://git-scm.com/downloads).
