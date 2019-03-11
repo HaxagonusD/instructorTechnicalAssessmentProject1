@@ -1,0 +1,140 @@
+html, body{
+  margin: 0;
+  height: 100%;
+  background-color: #323A45;
+  align-content: center;
+  font-family: monospace;
+}
+
+/*navigation bar*/
+/* ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+  padding: 14px 30px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  display: block;
+  font-size: 20px;
+  font-family: monospace;
+} */
+/* li:hover{
+  background-color: #111;
+} */
+
+/*About Section*/
+/* .About-Text{
+  font-size: 16px;
+  font-family: monospace;
+  display: flex;
+  justify-content: center;
+  margin: 200px 100px;
+  margin-bottom: 0px;
+  color: white;
+} */
+
+/* .Julian {
+  float: right;
+  width: 270px;
+  height: 270px;
+  padding-right: 50px;
+} */
+.first-big-picture {
+  background-image: url(./Resources/keyboard-office-work-home-office-wallpaper.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.about-section {
+  background-color: #191919;
+  width: 100%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.about-next a {
+
+  font-family: monospace;
+  font-size: 30px;
+
+  color: white;
+  text-decoration: none;
+
+
+}
+img[src="Resources/Bottle-of-Julian.jpg"]{
+  width: 250px;
+  height: 250px;
+}
+a[name="About"] {
+  margin-top: 100px;
+}
+a[name="github"] {
+  font-family: monospace;
+  font-size: 30px;
+
+  color: white;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+}
+
+.side-padding {
+  width: 100%;
+  background-color: transparent;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  align-items: center;
+  /* padding-left: 15px;
+  padding-right: 15px; */
+  width: 100%;
+  /* margin-left: 203px;
+  margin-right: 203px; */
+
+}
+
+h3[name="Julian"] {
+  font-size: 40px;
+}
+
+.About-Text {
+  color: white;
+  font-family: monospace;
+}
+
+h3 {
+  color: white;
+  display: block;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+}
+
+.Top {
+  font-size: 30px;
+  padding-bottom: 30px;
+
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  line-height: 30px;
+  font-size: 16px;
+}
